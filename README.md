@@ -1,4 +1,5 @@
 # BeritaKu #
+index.php di default url sudah di hapus dengan file .htaccess , sudah di set default controller dan autoload model , menambahkan helper simplehtmldomparser
 rss generator from many source with output json, REST API provider
 menggunakan framework [Codeigniter v3](https://codeigniter.com/user_guide/)
 menerapkan konsep MVP dengan baik ( semua yg berurusan dengan database kodenya di model)
